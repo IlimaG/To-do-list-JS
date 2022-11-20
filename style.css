@@ -50,12 +50,16 @@ li {
 
 span {
     margin-right: 30px;
+
 }
 .deletesBtn {
-    background-color: #123b53;
+    background-color: #19567a;
     border: none;
     margin-left: 20px;
     float: right;
+    border-radius: 50%;
+    width: 27px;
+    height: 27px;
 }
 
 /* add button */
